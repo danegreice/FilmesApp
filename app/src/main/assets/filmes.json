@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "ano": 2014,
+    "genero": "Ficção científica",
+    "imagem": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "resumo": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+  },
+  {
+    "id": 2,
+    "titulo": "O Senhor dos Anéis",
+    "ano": 2001,
+    "genero": "Fantasia",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLD-vq9ZFgAo_-cNKPOwRUkawPZXlwRQhc0mgnhDX4a6j5B1qF32YPYPpwQZFrRAnu2jgsJXbKR998Qt0IjfzCSzVSFZDk8dhs9wOs_BQDGAxDmeJQ4JDl-bJqHoRm3k8j0F2Bo4Jd4lx9wuRze9uzD52c6R-JaTfbzVWtsuFbLfn2OlI38piOMpA/s2806/00%20-%20O%20Senhor%20dos%20An%C3%A9is%20A%20Sociedade%20do%20Anel%20(2001).jpg",
+    "resumo": "Um jovem hobbit recebe a missão de destruir um poderoso anel antes que ele caia nas mãos do Senhor das Trevas."
+  },
+  {
+    "id": 3,
+    "titulo": "Homem-Aranha",
+    "ano": 2002,
+    "genero": "Ação",
+    "imagem": "https://image.tmdb.org/t/p/original/wX2WsozQw1RlnYyWbcQVxx3XSAo.jpg",
+    "resumo": "Após ser picado por uma aranha geneticamente modificada, Peter Parker desenvolve poderes extraordinários."
+  }
+]
